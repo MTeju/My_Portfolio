@@ -5,7 +5,9 @@
 
 https://github.com/MTeju/My_Portfolio/assets/106768538/0b7004ae-8910-46d2-947a-515fd29a4a54
 
-## Snapshots
+#
+
+# Snapshots
 
 ## Page 1
 ![My Portfolio and 1 more page - Personal - Microsoft​ Edge 17-04-2024 15_26_13](https://github.com/MTeju/My_Portfolio/assets/106768538/9c263f2b-2f3a-470a-a2bd-21417bed79c2)
