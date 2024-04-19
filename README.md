@@ -27,7 +27,7 @@ https://github.com/MTeju/My_Portfolio/assets/106768538/0b7004ae-8910-46d2-947a-5
 
 #
 
-## video Samples
+# Video Samples
 
 # PC / Laptop / Desktop View.
 https://github.com/MTeju/My_Portfolio/assets/106768538/0b7004ae-8910-46d2-947a-515fd29a4a54
